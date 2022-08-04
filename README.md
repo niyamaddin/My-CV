@@ -1,2 +1,2 @@
-# My-CV
-Something about me
+# About me
+
